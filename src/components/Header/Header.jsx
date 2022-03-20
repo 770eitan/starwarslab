@@ -1,5 +1,5 @@
 
-const NavBar = (props) => {
+const Header = (props) => {
     return ( 
         <h1 >
         Starwars Ships
@@ -9,4 +9,4 @@ const NavBar = (props) => {
 
 
  
-export default NavBar;
+export default Header;
